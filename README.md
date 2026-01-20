@@ -41,4 +41,4 @@ This repository is a **pure engineering toolkit**. It is akin to a precision-tun
 
 ---
 
-If you have more efficient inference stepping schemes or mathematical logic enhancement plugins, feel free to submit a PR to explore the boundaries of model capability together, Master Meow! (主人喵)
+If you have more efficient inference stepping schemes or mathematical logic enhancement plugins, feel free to submit a PR to explore the boundaries of model capability together!
